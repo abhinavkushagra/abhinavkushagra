@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently looking for opportunities in MERN stack.
-- 🌱 I’m currently learning GraphQL.
-- 👯 I’m looking to collaborate on Fullstack development projects.
+- 🔭 I’m currently looking for opportunities as UI developer.
+- 🌱 I’m currently learning UX Design.
+- 👯 I’m looking to collaborate on UX projects.
 - 🤔 I’m looking for help with 'Life'
 - 📫 How to reach me: mailto:abhinavkushagra@gmail.com
 - 😄 Pronouns: He/Him
